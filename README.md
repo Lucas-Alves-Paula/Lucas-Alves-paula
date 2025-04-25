@@ -21,9 +21,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   
 ## 
 
-## 🐍 Snake comendo meus commits
+![Snake animation](https://github.com/Lucas-Alves-Paula/Lucas-Alves-paula/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/Lucas-Alves-Paula/Lucas-Alves-Paula/output/github-contribution-grid-snake.svg)
 
 
 
